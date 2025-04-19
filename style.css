@@ -8,11 +8,11 @@ img {
     border: 5px solid white;
 }
 
-h1 {
+h1{
     color: white;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: bold;
     font-style: normal;
     margin: 0px;
     text-transform: uppercase;
